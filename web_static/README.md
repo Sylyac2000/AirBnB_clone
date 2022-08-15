@@ -26,20 +26,12 @@ How to compute CSS Specificity Value
 What are Box properties in CSS
 
 ## Description of what each file shows:
-0. My privileges!
-1. Create a database
-2. Delete a database
-3. List tables
-4. First table
-5. Full description
-6. List all in table
-7. First add
-8. Count 89
-9. Full creation
-10. List by best
-11. Select the best
-12. Cheating is bad
-13. Score too low
-14. Average
-15. Number by score
-16. Say my name
+0. Inline styling
+1. Head styling
+2. CSS files
+3. Zoning done!
+4. Search!
+5. More filters
+6. It's (h)over
+7. Display results
+8. More details
